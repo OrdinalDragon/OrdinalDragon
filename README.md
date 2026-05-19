@@ -1,6 +1,6 @@
 [![Banner](https://github.com/OrdinalDragon/OrdinalDragon/raw/main/public/ordinaldragon.png)](https://github.com/OrdinalDragon)
 
-<h1 align="center">Nicolás Schernetzki</h1>
+<h1 align="center">Nicolas Schernetzki</h1>
 
 <p align="center">
   <em>Full-Stack Developer · MERN Stack & .NET · Building real-world applications with end-to-end ownership</em>
