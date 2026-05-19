@@ -61,7 +61,3 @@ Currently deepening expertise in distributed systems, API design, and frontend e
 <p align="center">
   <sub>Always learning. Always building.</sub>
 </p>
-
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="public/ordinaldragon.png" />
-</div>
